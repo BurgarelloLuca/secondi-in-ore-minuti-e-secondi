@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/secondi in ore,minuti e secondi/cmake-build-debug/CMakeFiles/secondi_in_ore_minuti_e_secondi.dir
+C:/Users/luca_/CLionProjects/secondi in ore,minuti e secondi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/secondi in ore,minuti e secondi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
